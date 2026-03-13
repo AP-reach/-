@@ -35,5 +35,6 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0185-department-top-three-salaries](https://github.com/AP-reach/-/tree/main/0185-department-top-three-salaries/) | undefined |
 | [0262-trips-and-users](https://github.com/AP-reach/-/tree/main/0262-trips-and-users/) | undefined |
 <!---LeetCode Topics End-->
