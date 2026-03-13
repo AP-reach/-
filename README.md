@@ -40,4 +40,5 @@
 | [0569-median-employee-salary](https://github.com/AP-reach/-/tree/main/0569-median-employee-salary/) | undefined |
 | [0579-find-cumulative-salary-of-an-employee](https://github.com/AP-reach/-/tree/main/0579-find-cumulative-salary-of-an-employee/) | undefined |
 | [0601-human-traffic-of-stadium](https://github.com/AP-reach/-/tree/main/0601-human-traffic-of-stadium/) | undefined |
+| [1546-find-the-quiet-students-in-all-exams](https://github.com/AP-reach/-/tree/main/1546-find-the-quiet-students-in-all-exams/) | undefined |
 <!---LeetCode Topics End-->
