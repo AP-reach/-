@@ -32,4 +32,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AP-reach/-/tree/main/3496-minimum-number-of-seconds-to-make-mountain-height-zero/) | undefined |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0262-trips-and-users](https://github.com/AP-reach/-/tree/main/0262-trips-and-users/) | undefined |
 <!---LeetCode Topics End-->
