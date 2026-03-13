@@ -1,1 +1,25 @@
-<h2><a href="https://leetcode.cn/problems/minimum-number-of-seconds-to-make-mountain-height-zero">3496. undefined</a></h2><h3>undefined</h3><hr>undefined
+# 算法思路
+
+初始化堆
+
+每个工人第一次降低高度耗时 t
+
+重复 mountainHeight 次：
+
+取出 最早完成的工人
+
+更新答案时间
+
+让这个工人执行下一次工作
+
+放回堆
+
+因为每次降低 1 单位高度。
+
+时间复杂度：
+
+𝑂(𝐻log⁡𝑛)
+
+H = mountainHeight
+
+n = 工人数
