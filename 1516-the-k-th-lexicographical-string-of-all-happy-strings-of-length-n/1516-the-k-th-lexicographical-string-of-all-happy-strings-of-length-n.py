@@ -1,25 +1,32 @@
 class Solution:
     def getHappyString(self, n: int, k: int) -> str:
-        al = 3*(2**(n-1))
-        if k > al:
-            return ''
-        
-        answer_sheet = []
-        index = ['a','b','c']
+        total = 3 * (2 ** (n - 1))
+        if k > total:
+            return ""
 
-        def fill_str( s ) -> None:
-            if len(s) == n:
-                answer_sheet.append(s)
-                return
-            
-            for x in index:
-                if not s or s[-1] != x:
-                    fill_str(s+x)
-                    
+        alphabet = ['a', 'b', 'c']
+        block = 2 ** (n - 1)
 
+        # 第一位
+        idx = (k - 1) // block
+        first = alphabet[idx]
+        res = first
+        k -= idx * block
 
-        fill_str('')
+        prev = first
 
-        return answer_sheet[k-1]
+        # 后面每一位
+        for i in range(n - 1):
+            block //= 2
+            options = [c for c in alphabet if c != prev]
+
+            idx = (k - 1) // block
+            chosen = options[idx]
+
+            res += chosen
+            prev = chosen
+            k -= idx * block
+
+        return res
 
 
