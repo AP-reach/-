@@ -43,4 +43,12 @@
 | [1546-find-the-quiet-students-in-all-exams](https://github.com/AP-reach/-/tree/main/1546-find-the-quiet-students-in-all-exams/) | undefined |
 | [1623-sales-by-day-of-the-week](https://github.com/AP-reach/-/tree/main/1623-sales-by-day-of-the-week/) | undefined |
 | [1779-hopper-company-queries-i](https://github.com/AP-reach/-/tree/main/1779-hopper-company-queries-i/) | undefined |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AP-reach/-/tree/main/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | undefined |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AP-reach/-/tree/main/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | undefined |
 <!---LeetCode Topics End-->
