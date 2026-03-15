@@ -51,4 +51,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AP-reach/-/tree/main/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | undefined |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AP-reach/-/tree/main/0098-validate-binary-search-tree/) | undefined |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AP-reach/-/tree/main/0098-validate-binary-search-tree/) | undefined |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AP-reach/-/tree/main/0098-validate-binary-search-tree/) | undefined |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AP-reach/-/tree/main/0098-validate-binary-search-tree/) | undefined |
 <!---LeetCode Topics End-->
