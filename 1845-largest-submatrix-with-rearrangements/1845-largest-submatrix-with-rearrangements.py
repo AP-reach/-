@@ -1,27 +1,29 @@
 class Solution:
     def largestSubmatrix(self, matrix: List[List[int]]) -> int:
-        m  = len(matrix)
-        ans = 0
         n = len(matrix[0])
-        ones = defaultdict(int)
-        for i in range(m):
-            count = [0]*n
-            for j in range(n):
-                if matrix[i][j] == 1 and i == 0:
-                    ones[(i,j)] += 1
-                    count[j] += 1
-                elif matrix[i][j] == 1:
-                    ones[(i,j)] = ones[(i-1,j)] + 1
-                    count[j] = ones[(i-1,j)] + 1
+        heights = [0] * n
+        idx = list(range(n))  # 按照高度排序后的列号
+        ans = 0
+
+        for row in matrix:
+            zeros = []
+            non_zeros = []
+            for j in idx:
+                if row[j] == 0:
+                    heights[j] = 0
+                    zeros.append(j)
                 else:
-                    ones[j] = 0
-            count.sort(reverse= True)
-            first = count[0]
-            for k in range(n):
-                    first = min(first,count[k])
-                    area = (k+1)*first
-                    ans = max(ans , area)
+                    heights[j] += 1
+                    non_zeros.append(j)
+            idx = zeros + non_zeros  # 把高度为 0 的列号排在其他高度前面
+
+            # heights[idx[i]] 是递增的
+            for i in range(len(zeros), n):  # 高度 0 无需计算
+                ans = max(ans, (n - i) * heights[idx[i]])
+
         return ans
+
+
 
                 
 
