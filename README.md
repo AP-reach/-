@@ -35,6 +35,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AP-reach/-/tree/main/0023-merge-k-sorted-lists/) | undefined |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AP-reach/-/tree/main/1990-get-biggest-three-rhombus-sums-in-a-grid/) | undefined |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AP-reach/-/tree/main/3496-minimum-number-of-seconds-to-make-mountain-height-zero/) | undefined |
 ## Database
@@ -94,4 +95,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AP-reach/-/tree/main/0021-merge-two-sorted-lists/) | undefined |
+| [0023-merge-k-sorted-lists](https://github.com/AP-reach/-/tree/main/0023-merge-k-sorted-lists/) | undefined |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AP-reach/-/tree/main/0023-merge-k-sorted-lists/) | undefined |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AP-reach/-/tree/main/0023-merge-k-sorted-lists/) | undefined |
 <!---LeetCode Topics End-->
