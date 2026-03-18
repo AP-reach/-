@@ -22,6 +22,7 @@
 | ------- | ------- |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AP-reach/-/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AP-reach/-/tree/main/1990-get-biggest-three-rhombus-sums-in-a-grid/) | undefined |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AP-reach/-/tree/main/3338-count-submatrices-with-top-left-element-and-sum-less-than-k/) | undefined |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AP-reach/-/tree/main/3496-minimum-number-of-seconds-to-make-mountain-height-zero/) | undefined |
 ## Math
 | Problem Name | Difficulty |
@@ -78,10 +79,12 @@
 | ------- | ------- |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AP-reach/-/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AP-reach/-/tree/main/1990-get-biggest-three-rhombus-sums-in-a-grid/) | undefined |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AP-reach/-/tree/main/3338-count-submatrices-with-top-left-element-and-sum-less-than-k/) | undefined |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AP-reach/-/tree/main/1990-get-biggest-three-rhombus-sums-in-a-grid/) | undefined |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AP-reach/-/tree/main/3338-count-submatrices-with-top-left-element-and-sum-less-than-k/) | undefined |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
