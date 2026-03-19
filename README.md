@@ -56,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AP-reach/-/tree/main/0022-generate-parentheses/) | undefined |
+| [0032-longest-valid-parentheses](https://github.com/AP-reach/-/tree/main/0032-longest-valid-parentheses/) | undefined |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AP-reach/-/tree/main/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | undefined |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -130,4 +131,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AP-reach/-/tree/main/0022-generate-parentheses/) | undefined |
+| [0032-longest-valid-parentheses](https://github.com/AP-reach/-/tree/main/0032-longest-valid-parentheses/) | undefined |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AP-reach/-/tree/main/0032-longest-valid-parentheses/) | undefined |
 <!---LeetCode Topics End-->
