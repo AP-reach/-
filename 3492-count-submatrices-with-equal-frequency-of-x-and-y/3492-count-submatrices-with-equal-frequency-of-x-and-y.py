@@ -1,17 +1,18 @@
 class Solution:
     def numberOfSubmatrices(self, grid: List[List[str]]) -> int:
-        m, n = len(grid), len(grid[0])
-        s = [[[0, 0] for _ in range(n + 1)] for _ in range(m + 1)]
+        col_cnt = [[0, 0] for _ in grid[0]]
         ans = 0
-        for i, row in enumerate(grid):
+        for row in grid:
+            s0 = s1 = 0
             for j, c in enumerate(row):
-                s[i + 1][j + 1][0] = s[i + 1][j][0] + s[i][j + 1][0] - s[i][j][0]
-                s[i + 1][j + 1][1] = s[i + 1][j][1] + s[i][j + 1][1] - s[i][j][1]
                 if c != '.':
-                    s[i + 1][j + 1][ord(c) & 1] += 1
-                if s[i + 1][j + 1][0] == s[i + 1][j + 1][1] > 0:
+                    col_cnt[j][ord(c) & 1] += 1
+                s0 += col_cnt[j][0]
+                s1 += col_cnt[j][1]
+                if s0 == s1 > 0:
                     ans += 1
         return ans
+
 
 
 
