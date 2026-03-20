@@ -102,12 +102,14 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AP-reach/-/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0024-swap-nodes-in-pairs](https://github.com/AP-reach/-/tree/main/0024-swap-nodes-in-pairs/) | undefined |
+| [0025-reverse-nodes-in-k-group](https://github.com/AP-reach/-/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AP-reach/-/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0023-merge-k-sorted-lists](https://github.com/AP-reach/-/tree/main/0023-merge-k-sorted-lists/) | undefined |
 | [0024-swap-nodes-in-pairs](https://github.com/AP-reach/-/tree/main/0024-swap-nodes-in-pairs/) | undefined |
+| [0025-reverse-nodes-in-k-group](https://github.com/AP-reach/-/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
 | [0061-rotate-list](https://github.com/AP-reach/-/tree/main/0061-rotate-list/) | undefined |
 ## Divide and Conquer
 | Problem Name | Difficulty |
