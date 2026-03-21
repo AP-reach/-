@@ -26,6 +26,7 @@
 | [0305-number-of-islands-ii](https://github.com/AP-reach/-/tree/main/0305-number-of-islands-ii/) | undefined |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AP-reach/-/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AP-reach/-/tree/main/1990-get-biggest-three-rhombus-sums-in-a-grid/) | undefined |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AP-reach/-/tree/main/2015-determine-whether-matrix-can-be-obtained-by-rotation/) | undefined |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AP-reach/-/tree/main/3338-count-submatrices-with-top-left-element-and-sum-less-than-k/) | undefined |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AP-reach/-/tree/main/3492-count-submatrices-with-equal-frequency-of-x-and-y/) | undefined |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AP-reach/-/tree/main/3496-minimum-number-of-seconds-to-make-mountain-height-zero/) | undefined |
@@ -96,6 +97,7 @@
 | [0200-number-of-islands](https://github.com/AP-reach/-/tree/main/0200-number-of-islands/) | undefined |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AP-reach/-/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AP-reach/-/tree/main/1990-get-biggest-three-rhombus-sums-in-a-grid/) | undefined |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AP-reach/-/tree/main/2015-determine-whether-matrix-can-be-obtained-by-rotation/) | undefined |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AP-reach/-/tree/main/3338-count-submatrices-with-top-left-element-and-sum-less-than-k/) | undefined |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AP-reach/-/tree/main/3492-count-submatrices-with-equal-frequency-of-x-and-y/) | undefined |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AP-reach/-/tree/main/3884-minimum-absolute-difference-in-sliding-submatrix/) | undefined |
