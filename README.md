@@ -28,6 +28,7 @@
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AP-reach/-/tree/main/3492-count-submatrices-with-equal-frequency-of-x-and-y/) | undefined |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AP-reach/-/tree/main/3496-minimum-number-of-seconds-to-make-mountain-height-zero/) | undefined |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AP-reach/-/tree/main/3884-minimum-absolute-difference-in-sliding-submatrix/) | undefined |
+| [3973-flip-square-submatrix-vertically](https://github.com/AP-reach/-/tree/main/3973-flip-square-submatrix-vertically/) | undefined |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AP-reach/-/tree/main/3338-count-submatrices-with-top-left-element-and-sum-less-than-k/) | undefined |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AP-reach/-/tree/main/3492-count-submatrices-with-equal-frequency-of-x-and-y/) | undefined |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AP-reach/-/tree/main/3884-minimum-absolute-difference-in-sliding-submatrix/) | undefined |
+| [3973-flip-square-submatrix-vertically](https://github.com/AP-reach/-/tree/main/3973-flip-square-submatrix-vertically/) | undefined |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/AP-reach/-/tree/main/0061-rotate-list/) | undefined |
+| [3973-flip-square-submatrix-vertically](https://github.com/AP-reach/-/tree/main/3973-flip-square-submatrix-vertically/) | undefined |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
