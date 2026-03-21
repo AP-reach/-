@@ -34,6 +34,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/AP-reach/-/tree/main/0062-unique-paths/) | undefined |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AP-reach/-/tree/main/1990-get-biggest-three-rhombus-sums-in-a-grid/) | undefined |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AP-reach/-/tree/main/3496-minimum-number-of-seconds-to-make-mountain-height-zero/) | undefined |
 ## Binary Search
@@ -153,6 +154,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AP-reach/-/tree/main/0022-generate-parentheses/) | undefined |
 | [0032-longest-valid-parentheses](https://github.com/AP-reach/-/tree/main/0032-longest-valid-parentheses/) | undefined |
+| [0062-unique-paths](https://github.com/AP-reach/-/tree/main/0062-unique-paths/) | undefined |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +164,8 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/AP-reach/-/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/AP-reach/-/tree/main/0200-number-of-islands/) | undefined |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/AP-reach/-/tree/main/0062-unique-paths/) | undefined |
 <!---LeetCode Topics End-->
