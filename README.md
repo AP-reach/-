@@ -24,6 +24,7 @@
 | [0130-surrounded-regions](https://github.com/AP-reach/-/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/AP-reach/-/tree/main/0200-number-of-islands/) | undefined |
 | [0305-number-of-islands-ii](https://github.com/AP-reach/-/tree/main/0305-number-of-islands-ii/) | undefined |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/AP-reach/-/tree/main/1716-maximum-non-negative-product-in-a-matrix/) | undefined |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AP-reach/-/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AP-reach/-/tree/main/1990-get-biggest-three-rhombus-sums-in-a-grid/) | undefined |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AP-reach/-/tree/main/2015-determine-whether-matrix-can-be-obtained-by-rotation/) | undefined |
@@ -95,6 +96,7 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/AP-reach/-/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/AP-reach/-/tree/main/0200-number-of-islands/) | undefined |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/AP-reach/-/tree/main/1716-maximum-non-negative-product-in-a-matrix/) | undefined |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AP-reach/-/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AP-reach/-/tree/main/1990-get-biggest-three-rhombus-sums-in-a-grid/) | undefined |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AP-reach/-/tree/main/2015-determine-whether-matrix-can-be-obtained-by-rotation/) | undefined |
@@ -161,6 +163,7 @@
 | [0062-unique-paths](https://github.com/AP-reach/-/tree/main/0062-unique-paths/) | undefined |
 | [0458-poor-pigs](https://github.com/AP-reach/-/tree/main/0458-poor-pigs/) | undefined |
 | [0634-find-the-derangement-of-an-array](https://github.com/AP-reach/-/tree/main/0634-find-the-derangement-of-an-array/) | undefined |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/AP-reach/-/tree/main/1716-maximum-non-negative-product-in-a-matrix/) | undefined |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
