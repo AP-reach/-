@@ -65,6 +65,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/AP-reach/-/tree/main/0020-valid-parentheses/) | undefined |
 | [0022-generate-parentheses](https://github.com/AP-reach/-/tree/main/0022-generate-parentheses/) | undefined |
 | [0032-longest-valid-parentheses](https://github.com/AP-reach/-/tree/main/0032-longest-valid-parentheses/) | undefined |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AP-reach/-/tree/main/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | undefined |
@@ -167,6 +168,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/AP-reach/-/tree/main/0020-valid-parentheses/) | undefined |
 | [0032-longest-valid-parentheses](https://github.com/AP-reach/-/tree/main/0032-longest-valid-parentheses/) | undefined |
 ## Breadth-First Search
 | Problem Name | Difficulty |
