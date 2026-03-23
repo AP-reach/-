@@ -36,6 +36,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/AP-reach/-/tree/main/0029-divide-two-integers/) | undefined |
 | [0062-unique-paths](https://github.com/AP-reach/-/tree/main/0062-unique-paths/) | undefined |
 | [0458-poor-pigs](https://github.com/AP-reach/-/tree/main/0458-poor-pigs/) | undefined |
 | [0634-find-the-derangement-of-an-array](https://github.com/AP-reach/-/tree/main/0634-find-the-derangement-of-an-array/) | undefined |
@@ -181,4 +182,8 @@
 | [0062-unique-paths](https://github.com/AP-reach/-/tree/main/0062-unique-paths/) | undefined |
 | [0458-poor-pigs](https://github.com/AP-reach/-/tree/main/0458-poor-pigs/) | undefined |
 | [0634-find-the-derangement-of-an-array](https://github.com/AP-reach/-/tree/main/0634-find-the-derangement-of-an-array/) | undefined |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/AP-reach/-/tree/main/0029-divide-two-integers/) | undefined |
 <!---LeetCode Topics End-->
