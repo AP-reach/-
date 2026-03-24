@@ -86,6 +86,7 @@
 | [0098-validate-binary-search-tree](https://github.com/AP-reach/-/tree/main/0098-validate-binary-search-tree/) | undefined |
 | [0130-surrounded-regions](https://github.com/AP-reach/-/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/AP-reach/-/tree/main/0200-number-of-islands/) | undefined |
+| [0261-graph-valid-tree](https://github.com/AP-reach/-/tree/main/0261-graph-valid-tree/) | undefined |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/AP-reach/-/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0130-surrounded-regions](https://github.com/AP-reach/-/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/AP-reach/-/tree/main/0200-number-of-islands/) | undefined |
+| [0261-graph-valid-tree](https://github.com/AP-reach/-/tree/main/0261-graph-valid-tree/) | undefined |
 | [0305-number-of-islands-ii](https://github.com/AP-reach/-/tree/main/0305-number-of-islands-ii/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -178,6 +180,7 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/AP-reach/-/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/AP-reach/-/tree/main/0200-number-of-islands/) | undefined |
+| [0261-graph-valid-tree](https://github.com/AP-reach/-/tree/main/0261-graph-valid-tree/) | undefined |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,4 +191,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/AP-reach/-/tree/main/0029-divide-two-integers/) | undefined |
+## Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0261-graph-valid-tree](https://github.com/AP-reach/-/tree/main/0261-graph-valid-tree/) | undefined |
 <!---LeetCode Topics End-->
