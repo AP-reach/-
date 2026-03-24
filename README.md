@@ -46,6 +46,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AP-reach/-/tree/main/0352-data-stream-as-disjoint-intervals/) | undefined |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AP-reach/-/tree/main/3496-minimum-number-of-seconds-to-make-mountain-height-zero/) | undefined |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -158,11 +159,13 @@
 | [0261-graph-valid-tree](https://github.com/AP-reach/-/tree/main/0261-graph-valid-tree/) | undefined |
 | [0305-number-of-islands-ii](https://github.com/AP-reach/-/tree/main/0305-number-of-islands-ii/) | undefined |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AP-reach/-/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | undefined |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AP-reach/-/tree/main/0352-data-stream-as-disjoint-intervals/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AP-reach/-/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0305-number-of-islands-ii](https://github.com/AP-reach/-/tree/main/0305-number-of-islands-ii/) | undefined |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AP-reach/-/tree/main/0352-data-stream-as-disjoint-intervals/) | undefined |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,4 +202,16 @@
 | ------- | ------- |
 | [0261-graph-valid-tree](https://github.com/AP-reach/-/tree/main/0261-graph-valid-tree/) | undefined |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AP-reach/-/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | undefined |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AP-reach/-/tree/main/0352-data-stream-as-disjoint-intervals/) | undefined |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AP-reach/-/tree/main/0352-data-stream-as-disjoint-intervals/) | undefined |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AP-reach/-/tree/main/0352-data-stream-as-disjoint-intervals/) | undefined |
 <!---LeetCode Topics End-->
