@@ -37,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/AP-reach/-/tree/main/0029-divide-two-integers/) | undefined |
+| [0050-powx-n](https://github.com/AP-reach/-/tree/main/0050-powx-n/) | undefined |
 | [0062-unique-paths](https://github.com/AP-reach/-/tree/main/0062-unique-paths/) | undefined |
 | [0458-poor-pigs](https://github.com/AP-reach/-/tree/main/0458-poor-pigs/) | undefined |
 | [0634-find-the-derangement-of-an-array](https://github.com/AP-reach/-/tree/main/0634-find-the-derangement-of-an-array/) | undefined |
@@ -124,6 +125,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/AP-reach/-/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0024-swap-nodes-in-pairs](https://github.com/AP-reach/-/tree/main/0024-swap-nodes-in-pairs/) | undefined |
 | [0025-reverse-nodes-in-k-group](https://github.com/AP-reach/-/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
+| [0050-powx-n](https://github.com/AP-reach/-/tree/main/0050-powx-n/) | undefined |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
