@@ -41,12 +41,14 @@
 | [0062-unique-paths](https://github.com/AP-reach/-/tree/main/0062-unique-paths/) | undefined |
 | [0458-poor-pigs](https://github.com/AP-reach/-/tree/main/0458-poor-pigs/) | undefined |
 | [0634-find-the-derangement-of-an-array](https://github.com/AP-reach/-/tree/main/0634-find-the-derangement-of-an-array/) | undefined |
+| [0923-super-egg-drop](https://github.com/AP-reach/-/tree/main/0923-super-egg-drop/) | undefined |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AP-reach/-/tree/main/1990-get-biggest-three-rhombus-sums-in-a-grid/) | undefined |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AP-reach/-/tree/main/3496-minimum-number-of-seconds-to-make-mountain-height-zero/) | undefined |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AP-reach/-/tree/main/0352-data-stream-as-disjoint-intervals/) | undefined |
+| [0923-super-egg-drop](https://github.com/AP-reach/-/tree/main/0923-super-egg-drop/) | undefined |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AP-reach/-/tree/main/3496-minimum-number-of-seconds-to-make-mountain-height-zero/) | undefined |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -174,6 +176,7 @@
 | [0062-unique-paths](https://github.com/AP-reach/-/tree/main/0062-unique-paths/) | undefined |
 | [0458-poor-pigs](https://github.com/AP-reach/-/tree/main/0458-poor-pigs/) | undefined |
 | [0634-find-the-derangement-of-an-array](https://github.com/AP-reach/-/tree/main/0634-find-the-derangement-of-an-array/) | undefined |
+| [0923-super-egg-drop](https://github.com/AP-reach/-/tree/main/0923-super-egg-drop/) | undefined |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/AP-reach/-/tree/main/1716-maximum-non-negative-product-in-a-matrix/) | undefined |
 ## Stack
 | Problem Name | Difficulty |
