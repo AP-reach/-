@@ -23,6 +23,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/AP-reach/-/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0130-surrounded-regions](https://github.com/AP-reach/-/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/AP-reach/-/tree/main/0200-number-of-islands/) | undefined |
+| [0209-minimum-size-subarray-sum](https://github.com/AP-reach/-/tree/main/0209-minimum-size-subarray-sum/) | undefined |
 | [0305-number-of-islands-ii](https://github.com/AP-reach/-/tree/main/0305-number-of-islands-ii/) | undefined |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/AP-reach/-/tree/main/1716-maximum-non-negative-product-in-a-matrix/) | undefined |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AP-reach/-/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
@@ -47,6 +48,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AP-reach/-/tree/main/0209-minimum-size-subarray-sum/) | undefined |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AP-reach/-/tree/main/0352-data-stream-as-disjoint-intervals/) | undefined |
 | [0923-super-egg-drop](https://github.com/AP-reach/-/tree/main/0923-super-egg-drop/) | undefined |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AP-reach/-/tree/main/3496-minimum-number-of-seconds-to-make-mountain-height-zero/) | undefined |
@@ -115,6 +117,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AP-reach/-/tree/main/0209-minimum-size-subarray-sum/) | undefined |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AP-reach/-/tree/main/1990-get-biggest-three-rhombus-sums-in-a-grid/) | undefined |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AP-reach/-/tree/main/3338-count-submatrices-with-top-left-element-and-sum-less-than-k/) | undefined |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AP-reach/-/tree/main/3492-count-submatrices-with-equal-frequency-of-x-and-y/) | undefined |
@@ -217,4 +220,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AP-reach/-/tree/main/0352-data-stream-as-disjoint-intervals/) | undefined |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AP-reach/-/tree/main/0209-minimum-size-subarray-sum/) | undefined |
 <!---LeetCode Topics End-->
