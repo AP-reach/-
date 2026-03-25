@@ -1,1 +1,10 @@
-<h2><a href="https://leetcode.cn/problems/alien-dictionary">269. undefined</a></h2><h3>undefined</h3><hr>undefined
+<h2><a href="https://leetcode.cn/problems/alien-dictionary">269. Alien-dictionary</a></h2><h3>Kahn(BFS)</h3><hr>本题要考虑到前缀是否是字典排序以及如何进行偏序图的建立，于是我们有：
+
+以下两种情况不存在合法字母顺序：
+
+字母之间的顺序关系存在由至少 2 个字母组成的环，例如 words=[“a",“b",“a"]；
+
+相邻两个单词满足后面的单词是前面的单词的前缀，且后面的单词的长度小于前面的单词的长度，例如 words=[“ab",“a"]。
+
+其余情况下都存在合法字母顺序，可以使用拓扑排序得到字典顺序。
+
