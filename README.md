@@ -24,6 +24,7 @@
 | [0130-surrounded-regions](https://github.com/AP-reach/-/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/AP-reach/-/tree/main/0200-number-of-islands/) | undefined |
 | [0209-minimum-size-subarray-sum](https://github.com/AP-reach/-/tree/main/0209-minimum-size-subarray-sum/) | undefined |
+| [0269-alien-dictionary](https://github.com/AP-reach/-/tree/main/0269-alien-dictionary/) | undefined |
 | [0305-number-of-islands-ii](https://github.com/AP-reach/-/tree/main/0305-number-of-islands-ii/) | undefined |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/AP-reach/-/tree/main/1716-maximum-non-negative-product-in-a-matrix/) | undefined |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AP-reach/-/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
@@ -75,6 +76,7 @@
 | [0020-valid-parentheses](https://github.com/AP-reach/-/tree/main/0020-valid-parentheses/) | undefined |
 | [0022-generate-parentheses](https://github.com/AP-reach/-/tree/main/0022-generate-parentheses/) | undefined |
 | [0032-longest-valid-parentheses](https://github.com/AP-reach/-/tree/main/0032-longest-valid-parentheses/) | undefined |
+| [0269-alien-dictionary](https://github.com/AP-reach/-/tree/main/0269-alien-dictionary/) | undefined |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AP-reach/-/tree/main/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | undefined |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -94,6 +96,7 @@
 | [0207-course-schedule](https://github.com/AP-reach/-/tree/main/0207-course-schedule/) | undefined |
 | [0210-course-schedule-ii](https://github.com/AP-reach/-/tree/main/0210-course-schedule-ii/) | undefined |
 | [0261-graph-valid-tree](https://github.com/AP-reach/-/tree/main/0261-graph-valid-tree/) | undefined |
+| [0269-alien-dictionary](https://github.com/AP-reach/-/tree/main/0269-alien-dictionary/) | undefined |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AP-reach/-/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | undefined |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -196,6 +199,7 @@
 | [0207-course-schedule](https://github.com/AP-reach/-/tree/main/0207-course-schedule/) | undefined |
 | [0210-course-schedule-ii](https://github.com/AP-reach/-/tree/main/0210-course-schedule-ii/) | undefined |
 | [0261-graph-valid-tree](https://github.com/AP-reach/-/tree/main/0261-graph-valid-tree/) | undefined |
+| [0269-alien-dictionary](https://github.com/AP-reach/-/tree/main/0269-alien-dictionary/) | undefined |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AP-reach/-/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | undefined |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -213,6 +217,7 @@
 | [0207-course-schedule](https://github.com/AP-reach/-/tree/main/0207-course-schedule/) | undefined |
 | [0210-course-schedule-ii](https://github.com/AP-reach/-/tree/main/0210-course-schedule-ii/) | undefined |
 | [0261-graph-valid-tree](https://github.com/AP-reach/-/tree/main/0261-graph-valid-tree/) | undefined |
+| [0269-alien-dictionary](https://github.com/AP-reach/-/tree/main/0269-alien-dictionary/) | undefined |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AP-reach/-/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | undefined |
 ## Design
 | Problem Name | Difficulty |
@@ -235,4 +240,5 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/AP-reach/-/tree/main/0207-course-schedule/) | undefined |
 | [0210-course-schedule-ii](https://github.com/AP-reach/-/tree/main/0210-course-schedule-ii/) | undefined |
+| [0269-alien-dictionary](https://github.com/AP-reach/-/tree/main/0269-alien-dictionary/) | undefined |
 <!---LeetCode Topics End-->
