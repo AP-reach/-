@@ -91,6 +91,7 @@
 | [0098-validate-binary-search-tree](https://github.com/AP-reach/-/tree/main/0098-validate-binary-search-tree/) | undefined |
 | [0130-surrounded-regions](https://github.com/AP-reach/-/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/AP-reach/-/tree/main/0200-number-of-islands/) | undefined |
+| [0207-course-schedule](https://github.com/AP-reach/-/tree/main/0207-course-schedule/) | undefined |
 | [0261-graph-valid-tree](https://github.com/AP-reach/-/tree/main/0261-graph-valid-tree/) | undefined |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AP-reach/-/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | undefined |
 ## Binary Search Tree
@@ -191,6 +192,7 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/AP-reach/-/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/AP-reach/-/tree/main/0200-number-of-islands/) | undefined |
+| [0207-course-schedule](https://github.com/AP-reach/-/tree/main/0207-course-schedule/) | undefined |
 | [0261-graph-valid-tree](https://github.com/AP-reach/-/tree/main/0261-graph-valid-tree/) | undefined |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AP-reach/-/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | undefined |
 ## Combinatorics
@@ -206,6 +208,7 @@
 ## Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/AP-reach/-/tree/main/0207-course-schedule/) | undefined |
 | [0261-graph-valid-tree](https://github.com/AP-reach/-/tree/main/0261-graph-valid-tree/) | undefined |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AP-reach/-/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | undefined |
 ## Design
@@ -224,4 +227,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AP-reach/-/tree/main/0209-minimum-size-subarray-sum/) | undefined |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/AP-reach/-/tree/main/0207-course-schedule/) | undefined |
 <!---LeetCode Topics End-->
