@@ -44,6 +44,7 @@
 | [0458-poor-pigs](https://github.com/AP-reach/-/tree/main/0458-poor-pigs/) | undefined |
 | [0634-find-the-derangement-of-an-array](https://github.com/AP-reach/-/tree/main/0634-find-the-derangement-of-an-array/) | undefined |
 | [0903-implement-rand10-using-rand7](https://github.com/AP-reach/-/tree/main/0903-implement-rand10-using-rand7/) | undefined |
+| [0915-generate-random-point-in-a-circle](https://github.com/AP-reach/-/tree/main/0915-generate-random-point-in-a-circle/) | undefined |
 | [0923-super-egg-drop](https://github.com/AP-reach/-/tree/main/0923-super-egg-drop/) | undefined |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AP-reach/-/tree/main/1990-get-biggest-three-rhombus-sums-in-a-grid/) | undefined |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AP-reach/-/tree/main/3496-minimum-number-of-seconds-to-make-mountain-height-zero/) | undefined |
@@ -246,6 +247,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/AP-reach/-/tree/main/0903-implement-rand10-using-rand7/) | undefined |
+| [0915-generate-random-point-in-a-circle](https://github.com/AP-reach/-/tree/main/0915-generate-random-point-in-a-circle/) | undefined |
 ## Probability and Statistics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,4 +256,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/AP-reach/-/tree/main/0903-implement-rand10-using-rand7/) | undefined |
+| [0915-generate-random-point-in-a-circle](https://github.com/AP-reach/-/tree/main/0915-generate-random-point-in-a-circle/) | undefined |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0915-generate-random-point-in-a-circle](https://github.com/AP-reach/-/tree/main/0915-generate-random-point-in-a-circle/) | undefined |
 <!---LeetCode Topics End-->
