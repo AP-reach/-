@@ -28,6 +28,7 @@
 | [0305-number-of-islands-ii](https://github.com/AP-reach/-/tree/main/0305-number-of-islands-ii/) | undefined |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/AP-reach/-/tree/main/1716-maximum-non-negative-product-in-a-matrix/) | undefined |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AP-reach/-/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
+| [1903-design-most-recently-used-queue](https://github.com/AP-reach/-/tree/main/1903-design-most-recently-used-queue/) | undefined |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AP-reach/-/tree/main/1990-get-biggest-three-rhombus-sums-in-a-grid/) | undefined |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AP-reach/-/tree/main/2015-determine-whether-matrix-can-be-obtained-by-rotation/) | undefined |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AP-reach/-/tree/main/3338-count-submatrices-with-top-left-element-and-sum-less-than-k/) | undefined |
@@ -149,10 +150,12 @@
 | [0024-swap-nodes-in-pairs](https://github.com/AP-reach/-/tree/main/0024-swap-nodes-in-pairs/) | undefined |
 | [0025-reverse-nodes-in-k-group](https://github.com/AP-reach/-/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
 | [0061-rotate-list](https://github.com/AP-reach/-/tree/main/0061-rotate-list/) | undefined |
+| [1903-design-most-recently-used-queue](https://github.com/AP-reach/-/tree/main/1903-design-most-recently-used-queue/) | undefined |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AP-reach/-/tree/main/0023-merge-k-sorted-lists/) | undefined |
+| [1903-design-most-recently-used-queue](https://github.com/AP-reach/-/tree/main/1903-design-most-recently-used-queue/) | undefined |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +228,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AP-reach/-/tree/main/0352-data-stream-as-disjoint-intervals/) | undefined |
+| [1903-design-most-recently-used-queue](https://github.com/AP-reach/-/tree/main/1903-design-most-recently-used-queue/) | undefined |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,4 +265,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0915-generate-random-point-in-a-circle](https://github.com/AP-reach/-/tree/main/0915-generate-random-point-in-a-circle/) | undefined |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-design-most-recently-used-queue](https://github.com/AP-reach/-/tree/main/1903-design-most-recently-used-queue/) | undefined |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-design-most-recently-used-queue](https://github.com/AP-reach/-/tree/main/1903-design-most-recently-used-queue/) | undefined |
 <!---LeetCode Topics End-->
