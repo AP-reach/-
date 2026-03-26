@@ -43,6 +43,7 @@
 | [0062-unique-paths](https://github.com/AP-reach/-/tree/main/0062-unique-paths/) | undefined |
 | [0458-poor-pigs](https://github.com/AP-reach/-/tree/main/0458-poor-pigs/) | undefined |
 | [0634-find-the-derangement-of-an-array](https://github.com/AP-reach/-/tree/main/0634-find-the-derangement-of-an-array/) | undefined |
+| [0903-implement-rand10-using-rand7](https://github.com/AP-reach/-/tree/main/0903-implement-rand10-using-rand7/) | undefined |
 | [0923-super-egg-drop](https://github.com/AP-reach/-/tree/main/0923-super-egg-drop/) | undefined |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AP-reach/-/tree/main/1990-get-biggest-three-rhombus-sums-in-a-grid/) | undefined |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AP-reach/-/tree/main/3496-minimum-number-of-seconds-to-make-mountain-height-zero/) | undefined |
@@ -241,4 +242,16 @@
 | [0207-course-schedule](https://github.com/AP-reach/-/tree/main/0207-course-schedule/) | undefined |
 | [0210-course-schedule-ii](https://github.com/AP-reach/-/tree/main/0210-course-schedule-ii/) | undefined |
 | [0269-alien-dictionary](https://github.com/AP-reach/-/tree/main/0269-alien-dictionary/) | undefined |
+## Rejection Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/AP-reach/-/tree/main/0903-implement-rand10-using-rand7/) | undefined |
+## Probability and Statistics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/AP-reach/-/tree/main/0903-implement-rand10-using-rand7/) | undefined |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/AP-reach/-/tree/main/0903-implement-rand10-using-rand7/) | undefined |
 <!---LeetCode Topics End-->
