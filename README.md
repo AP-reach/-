@@ -20,6 +20,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AP-reach/-/tree/main/0026-remove-duplicates-from-sorted-array/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/AP-reach/-/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0130-surrounded-regions](https://github.com/AP-reach/-/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/AP-reach/-/tree/main/0200-number-of-islands/) | undefined |
@@ -163,6 +164,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AP-reach/-/tree/main/0026-remove-duplicates-from-sorted-array/) | undefined |
 | [0061-rotate-list](https://github.com/AP-reach/-/tree/main/0061-rotate-list/) | undefined |
 | [3973-flip-square-submatrix-vertically](https://github.com/AP-reach/-/tree/main/3973-flip-square-submatrix-vertically/) | undefined |
 ## Union Find
