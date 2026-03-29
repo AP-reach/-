@@ -15,6 +15,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/AP-reach/-/tree/main/0044-wildcard-matching/) | undefined |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AP-reach/-/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AP-reach/-/tree/main/3496-minimum-number-of-seconds-to-make-mountain-height-zero/) | undefined |
 ## Array
@@ -81,6 +82,7 @@
 | [0020-valid-parentheses](https://github.com/AP-reach/-/tree/main/0020-valid-parentheses/) | undefined |
 | [0022-generate-parentheses](https://github.com/AP-reach/-/tree/main/0022-generate-parentheses/) | undefined |
 | [0032-longest-valid-parentheses](https://github.com/AP-reach/-/tree/main/0032-longest-valid-parentheses/) | undefined |
+| [0044-wildcard-matching](https://github.com/AP-reach/-/tree/main/0044-wildcard-matching/) | undefined |
 | [0269-alien-dictionary](https://github.com/AP-reach/-/tree/main/0269-alien-dictionary/) | undefined |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AP-reach/-/tree/main/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | undefined |
 ## Backtracking
@@ -144,6 +146,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/AP-reach/-/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0024-swap-nodes-in-pairs](https://github.com/AP-reach/-/tree/main/0024-swap-nodes-in-pairs/) | undefined |
 | [0025-reverse-nodes-in-k-group](https://github.com/AP-reach/-/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
+| [0044-wildcard-matching](https://github.com/AP-reach/-/tree/main/0044-wildcard-matching/) | undefined |
 | [0050-powx-n](https://github.com/AP-reach/-/tree/main/0050-powx-n/) | undefined |
 ## Linked List
 | Problem Name | Difficulty |
@@ -190,6 +193,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AP-reach/-/tree/main/0022-generate-parentheses/) | undefined |
 | [0032-longest-valid-parentheses](https://github.com/AP-reach/-/tree/main/0032-longest-valid-parentheses/) | undefined |
+| [0044-wildcard-matching](https://github.com/AP-reach/-/tree/main/0044-wildcard-matching/) | undefined |
 | [0062-unique-paths](https://github.com/AP-reach/-/tree/main/0062-unique-paths/) | undefined |
 | [0458-poor-pigs](https://github.com/AP-reach/-/tree/main/0458-poor-pigs/) | undefined |
 | [0634-find-the-derangement-of-an-array](https://github.com/AP-reach/-/tree/main/0634-find-the-derangement-of-an-array/) | undefined |
