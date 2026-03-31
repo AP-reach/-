@@ -45,6 +45,7 @@
 | [0029-divide-two-integers](https://github.com/AP-reach/-/tree/main/0029-divide-two-integers/) | undefined |
 | [0050-powx-n](https://github.com/AP-reach/-/tree/main/0050-powx-n/) | undefined |
 | [0062-unique-paths](https://github.com/AP-reach/-/tree/main/0062-unique-paths/) | undefined |
+| [0292-nim-game](https://github.com/AP-reach/-/tree/main/0292-nim-game/) | undefined |
 | [0458-poor-pigs](https://github.com/AP-reach/-/tree/main/0458-poor-pigs/) | undefined |
 | [0634-find-the-derangement-of-an-array](https://github.com/AP-reach/-/tree/main/0634-find-the-derangement-of-an-array/) | undefined |
 | [0903-implement-rand10-using-rand7](https://github.com/AP-reach/-/tree/main/0903-implement-rand10-using-rand7/) | undefined |
@@ -281,4 +282,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-design-most-recently-used-queue](https://github.com/AP-reach/-/tree/main/1903-design-most-recently-used-queue/) | undefined |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/AP-reach/-/tree/main/0292-nim-game/) | undefined |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/AP-reach/-/tree/main/0292-nim-game/) | undefined |
 <!---LeetCode Topics End-->
