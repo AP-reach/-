@@ -18,6 +18,7 @@
 | [0044-wildcard-matching](https://github.com/AP-reach/-/tree/main/0044-wildcard-matching/) | undefined |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AP-reach/-/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AP-reach/-/tree/main/3496-minimum-number-of-seconds-to-make-mountain-height-zero/) | undefined |
+| [3770-lexicographically-smallest-generated-string](https://github.com/AP-reach/-/tree/main/3770-lexicographically-smallest-generated-string/) | undefined |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@
 | [0044-wildcard-matching](https://github.com/AP-reach/-/tree/main/0044-wildcard-matching/) | undefined |
 | [0269-alien-dictionary](https://github.com/AP-reach/-/tree/main/0269-alien-dictionary/) | undefined |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AP-reach/-/tree/main/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | undefined |
+| [3770-lexicographically-smallest-generated-string](https://github.com/AP-reach/-/tree/main/3770-lexicographically-smallest-generated-string/) | undefined |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,4 +292,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/AP-reach/-/tree/main/0292-nim-game/) | undefined |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3770-lexicographically-smallest-generated-string](https://github.com/AP-reach/-/tree/main/3770-lexicographically-smallest-generated-string/) | undefined |
 <!---LeetCode Topics End-->
