@@ -27,6 +27,7 @@
 | [0130-surrounded-regions](https://github.com/AP-reach/-/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/AP-reach/-/tree/main/0200-number-of-islands/) | undefined |
 | [0209-minimum-size-subarray-sum](https://github.com/AP-reach/-/tree/main/0209-minimum-size-subarray-sum/) | undefined |
+| [0218-the-skyline-problem](https://github.com/AP-reach/-/tree/main/0218-the-skyline-problem/) | undefined |
 | [0238-product-of-array-except-self](https://github.com/AP-reach/-/tree/main/0238-product-of-array-except-self/) | undefined |
 | [0269-alien-dictionary](https://github.com/AP-reach/-/tree/main/0269-alien-dictionary/) | undefined |
 | [0305-number-of-islands-ii](https://github.com/AP-reach/-/tree/main/0305-number-of-islands-ii/) | undefined |
@@ -65,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AP-reach/-/tree/main/0023-merge-k-sorted-lists/) | undefined |
+| [0218-the-skyline-problem](https://github.com/AP-reach/-/tree/main/0218-the-skyline-problem/) | undefined |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AP-reach/-/tree/main/1990-get-biggest-three-rhombus-sums-in-a-grid/) | undefined |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AP-reach/-/tree/main/3496-minimum-number-of-seconds-to-make-mountain-height-zero/) | undefined |
 ## Database
@@ -140,6 +142,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/AP-reach/-/tree/main/0218-the-skyline-problem/) | undefined |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AP-reach/-/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AP-reach/-/tree/main/1990-get-biggest-three-rhombus-sums-in-a-grid/) | undefined |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AP-reach/-/tree/main/3884-minimum-absolute-difference-in-sliding-submatrix/) | undefined |
@@ -164,6 +167,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AP-reach/-/tree/main/0023-merge-k-sorted-lists/) | undefined |
+| [0218-the-skyline-problem](https://github.com/AP-reach/-/tree/main/0218-the-skyline-problem/) | undefined |
 | [1903-design-most-recently-used-queue](https://github.com/AP-reach/-/tree/main/1903-design-most-recently-used-queue/) | undefined |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -247,6 +251,7 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/AP-reach/-/tree/main/0218-the-skyline-problem/) | undefined |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AP-reach/-/tree/main/0352-data-stream-as-disjoint-intervals/) | undefined |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -296,4 +301,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3770-lexicographically-smallest-generated-string](https://github.com/AP-reach/-/tree/main/3770-lexicographically-smallest-generated-string/) | undefined |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/AP-reach/-/tree/main/0218-the-skyline-problem/) | undefined |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/AP-reach/-/tree/main/0218-the-skyline-problem/) | undefined |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/AP-reach/-/tree/main/0218-the-skyline-problem/) | undefined |
 <!---LeetCode Topics End-->
