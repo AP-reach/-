@@ -162,6 +162,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/AP-reach/-/tree/main/0024-swap-nodes-in-pairs/) | undefined |
 | [0025-reverse-nodes-in-k-group](https://github.com/AP-reach/-/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
 | [0061-rotate-list](https://github.com/AP-reach/-/tree/main/0061-rotate-list/) | undefined |
+| [0146-lru-cache](https://github.com/AP-reach/-/tree/main/0146-lru-cache/) | undefined |
 | [1903-design-most-recently-used-queue](https://github.com/AP-reach/-/tree/main/1903-design-most-recently-used-queue/) | undefined |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -193,6 +194,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AP-reach/-/tree/main/0128-longest-consecutive-sequence/) | undefined |
+| [0146-lru-cache](https://github.com/AP-reach/-/tree/main/0146-lru-cache/) | undefined |
 | [0305-number-of-islands-ii](https://github.com/AP-reach/-/tree/main/0305-number-of-islands-ii/) | undefined |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AP-reach/-/tree/main/0352-data-stream-as-disjoint-intervals/) | undefined |
 ## Dynamic Programming
@@ -242,6 +244,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/AP-reach/-/tree/main/0146-lru-cache/) | undefined |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AP-reach/-/tree/main/0352-data-stream-as-disjoint-intervals/) | undefined |
 | [1903-design-most-recently-used-queue](https://github.com/AP-reach/-/tree/main/1903-design-most-recently-used-queue/) | undefined |
 ## Data Stream
@@ -284,6 +287,7 @@
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/AP-reach/-/tree/main/0146-lru-cache/) | undefined |
 | [1903-design-most-recently-used-queue](https://github.com/AP-reach/-/tree/main/1903-design-most-recently-used-queue/) | undefined |
 ## Simulation
 | Problem Name | Difficulty |
