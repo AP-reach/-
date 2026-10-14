@@ -1,60 +1,50 @@
 class Solution {
 public:
     int reachableNodes(vector<vector<int>>& edges, int maxMoves, int n) {
-        int ans { 0 };
-        if(n == 1){
-            return 1;
-        }
-        if(!maxMoves){
-            return 1;
-        }
-        // minimize weight: Dijkstra
-        vector<vector<int>> weight(n,vector<int>(n,0));
-        vector<int> len(n,INT_MAX); 
-        vector<bool> visited(n,false);
-        for( const auto& edge: edges ){
-            weight[edge[1]][edge[0]] = edge[2] + 1;
-            weight[edge[0]][edge[1]] = edge[2] + 1;
+        if (n == 1) return 1;
+        if (maxMoves == 0) return 1;
 
-        }   
-        len[0] = 0;
-        pair<int,int> cache(0,0),dist;
-        priority_queue<pair<int, int>, vector<pair<int, int>>,greater<pair<int, int>>> pq;
-        pq.push(cache);
+        vector<vector<pair<int, int>>> graph(n);
+        for (const auto& e : edges) {
+            int u = e[0], v = e[1], cnt = e[2];
+            int w = cnt + 1;
+            graph[u].push_back({v, w});
+            graph[v].push_back({u, w});
+        }
 
-        while(!pq.empty()){
-            cache = pq.top();
-            if(!visited[cache.second]){
-                pq.pop();
-                len[cache.second] = cache.first;
-                visited[cache.second] = true;
-                for(int i = 0; i < n; ++i){
-                    if(weight[cache.second][i] && !visited[i]){
-                        dist.first = min(len[i] , cache.first + weight[cache.second][i]);
-                        dist.second = i;
-                        pq.push(dist);
-                    }
+        vector<int> dist(n, INT_MAX);
+        vector<bool> visited(n, false);
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> pq;
+        dist[0] = 0;
+        pq.push({0, 0});
+
+        while (!pq.empty()) {
+            auto [d, u] = pq.top(); pq.pop();
+            if (visited[u]) continue;
+            visited[u] = true;
+            for (auto [v, w] : graph[u]) {
+                if (!visited[v] && d + w < dist[v]) {
+                    dist[v] = d + w;
+                    pq.push({dist[v], v});
                 }
             }
-            else{
-                pq.pop();
-            }
         }
-        for(auto& i : len){
-            if(i <= maxMoves){
+
+        int ans = 0;
+        vector<int> remain(n, 0);
+        for (int i = 0; i < n; ++i) {
+            if (dist[i] <= maxMoves) {
                 ++ans;
-            }
-            i = max(maxMoves - i , 0) ;
-        }
-        for(int i = 0; i < n - 1; ++i){
-            for(int j = i + 1 ; j < n ; ++j){
-                if(weight[i][j] > 0 && (len[i] < INT_MAX && len[j] < INT_MAX))
-                ans += min(len[i] + len[j] , weight[i][j] - 1) ;
+                remain[i] = maxMoves - dist[i];
             }
         }
 
+        for (const auto& e : edges) {
+            int u = e[0], v = e[1], cnt = e[2];
+            int fromU = min(cnt, remain[u]);
+            int fromV = min(cnt, remain[v]);
+            ans += min(cnt, fromU + fromV);
+        }
         return ans;
-
-
     }
 };
